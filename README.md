@@ -20,8 +20,7 @@
   <a href="https://wa.me/+6283822759168/P"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://www.facebook.com/andriistreetmoon"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://t.me/andrii"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://youtu.be/WgeItwiifYs"><img src="https://img.shields.io/badge/YouTube-zeeone ofc-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA" /><br>
-  <a name=andriiwalker&label=VIEWS&style=flat-square&color=orange" />
+
   <a href="https://github.com/andriiwalker"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
  
  <a href="https://komarev.com/ghpvc/?username=andriiwalker&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=andriiwalker&color=blue&style=flat-square&label=Profile+View"></a>
