@@ -8,7 +8,7 @@
 <p align="center">
 
 - 👼 My name is Andrii Street Moonshine 
-- 🗣️ I am 17 years old 
+- 🗣️ I am 22 years old 
 - 🔭 I am not programmer
 
 </p>
@@ -51,7 +51,7 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=andriiwalker&repo=wabot&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=andriiwalker&repo=rfkbot&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=andriiwalker&repo=Alphab0t12&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=andriiwalker&repo=ANDRIIxBOTZ&theme=dark
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=andriiwalker&repo=ANDRIIxBOTZ&theme=dark)
 
 
 <details>
@@ -64,6 +64,6 @@
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/zeeoneofc?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
+![Metrics](https://metrics.lecoq.io/andriiwalker?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
 
 </details> 
