@@ -7,7 +7,7 @@
 
 <p align="center">
 
-- 👼 My name is Zeeone 
+- 👼 My name is Andrii Street Moonshine 
 - 🗣️ I am 17 years old 
 - 🔭 I am not programmer
 
@@ -16,15 +16,15 @@
 ------
 ### Connect with me ☎️
 <p align="center">
-  <a href="https://instagram.com/zeeoneofc"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/message/JBGU4J2DVYEDK1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://www.facebook.com/profile.php?id=100015526687857"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://t.me/zeeoneee"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://instagram.com/crosslife89"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/+6283822759168/P"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://www.facebook.com/andriistreetmoon"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://t.me/andrii"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
   <a href="https://youtu.be/WgeItwiifYs"><img src="https://img.shields.io/badge/YouTube-zeeone ofc-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA" /><br>
   <a name=zeeoneofc&label=VIEWS&style=flat-square&color=orange" />
-  <a href="https://github.com/zeeoneofc"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://github.com/andriiwalker"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
-  <a href="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+View"></a>
+  <a href="https://komarev.com/ghpvc/?username=andriiwalker&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=andriiwalker&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
 
 ### Pubg mobile 🎮
@@ -44,14 +44,14 @@
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/zeeoneofc"><img src="https://github-readme-stats.vercel.app/api?username=zeeoneofc&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/zeeoneofc"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeoneofc&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/andriiwalker"><img src="https://github-readme-stats.vercel.app/api?username=andriiwalker&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/andriiwalker"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andriiwalker&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=api-zeeoneofc&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=Alpha-userbot&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=Lord-Userbot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=zeeoneofc&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=andriiwalker&repo=wabot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=andriiwalker&repo=rfkbot&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=andriiwalker&repo=Alphab0t12&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=andriiwalker&repo=ANDRIIxBOTZ&theme=dark
 
 
 <details>
