@@ -26,7 +26,7 @@
  <a href="https://komarev.com/ghpvc/?username=andriiwalker&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=andriiwalker&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
 
-### Pubg mobile 🎮
+### PUBG Mobile 🎮
 <p align="center">
   <img src="https://github.com/zeeoneofc/zeeoneofc/blob/zeeoneofc/2047a1zwq1.gif" />
 </p>
